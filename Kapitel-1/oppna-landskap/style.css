@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Story+Script&display=swap');
+body {
+    background-image: url(./bilder/david-di-veroli--m1duEoiJng-unsplash.jpg);
+}
+h1 {
+    font-family: "Anton", sans-serif;
+    color: azure;
+}
+h2 {
+    font-family: "Story Script", sans-serif;
+    color: aliceblue;
+}
+p {
+    font-family: "Story Script", sans-serif;
+    color: ghostwhite;
+}
+a {}
