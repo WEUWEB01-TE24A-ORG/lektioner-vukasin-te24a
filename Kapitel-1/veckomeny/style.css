@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Story+Script&display=swap');
+
+body {}
+table {
+    background-color: #a7e8ed;
+}
+caption {
+    font-size: 55px;
+    background-color: #e19a9a;
+    padding: 30px;
+}
+tr {
+    font-size: 25px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+th {
+    font-size: 33px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    width: 250px;
+}
