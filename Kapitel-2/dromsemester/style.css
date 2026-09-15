@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Story+Script&display=swap');
+body {
+background-image: url(./bilder/marek-okon-WScpndZFrOM-unsplash.jpg);
+background-size: cover;
+}
+h1 {
+    color: aqua;
+    font-family: "Anton", sans-serif;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-shadow: 5px 1px 0 black;
+    margin-left: 500px;
+}
+h2 {
+    color: aqua;
+    font-family: "Anton" sans-serif;
+    text-transform: uppercase;
+margin-left: 500px;
+
+}
+p {
+    margin-left: 850px;
+    margin-top: 350px;
+}
+a {
+    color: blueviolet;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
