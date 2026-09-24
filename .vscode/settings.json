@@ -31,4 +31,5 @@
     "angelo-breuer.clock": true,
     "GitHub.copilot": false
   },
+      "chat.disableAIFeatures": true
 }
