@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+body {
+     background-image: url(bilder/606d83b7cdd9c2da0eccc85ac51259f2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 30px;
+}
+ 
+h1 {
+    color: rgb(124, 11, 11);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
+    text-transform: uppercase;
+    font-family: "Anton", sans-serif;
+}
+
+h2 {
+    color: rgb(146, 15, 15);
+    font-size: 30px;
+    font-family: "Anton", sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: "Newsreader", sans-serif;
+}
+
+table {
+    background-color: rgb(57, 130, 255);
+    margin: 30px;
+}
+
+th {
+    background-color: black;
+    color: rgb(254, 254, 254);
+    font-family: "Newsreader", sans-serif;
+}
+
+td {
+    padding: 10px;
+    color: azure;
+    font-family: "Newsreader", sans-serif;
+}
+
+caption {
+    color: white;
+    font-size: 25px;
+}
+
+a {
+    background-color: rgb(145, 216, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+}
+iframe
+{
+    padding-left: 800px;
+    iframe margin-bottom: 500px;
+    max-width: 2000px;
+}
