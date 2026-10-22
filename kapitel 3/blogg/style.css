@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Island+Moments&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+
+    max-width: 100%;
+    height: auto;
+}
+
+/* Färgpaletten */
+:root {
+        --almond-cream: #ede0d4ff;
+    --pale-oak: #e6ccb2ff;
+    --tan: #ddb892ff;
+    --faded-copper: #b08968ff;
+    --coffee-bean: #7f5539ff;
+    --toffee-brown: #9c6644ff;
+    }
+
+/* Sidans utseende */
+body {}
+div.sida {
+    background-color: var(--coffee-bean);
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+/* Innehållets utseende */
+h1 {
+      font-family: "Courgette", cursive;
+      font-size: 70px;
+      color: var(--almond-cream);
+      text-align: center;
+      margin-bottom: 40px;
+      text-shadow: 2px 2px 10px;
+}
+div.inlagg {
+    background-color: tan;
+    padding: 50px;
+    margin-bottom: 30px;
+     font-family: "Island Moments", cursive;
+     font-size: 30px;
+     border-radius: 10px;
+     box-shadow: 2px 2px 10px;
+
+}
+img {
+    width: 100%
+    border:5px solid var(--pale-oak)
+    border: radius 10px;
+}
+h2 {}
+p.datum {}
+p {}
